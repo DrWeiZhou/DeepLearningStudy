@@ -14,6 +14,6 @@
 # 坑
 * AttributeError: module 'tensorflow' has no attribute 'mul'
 ```
-# 解决方案：[参考](http://blog.csdn.net/caicai_zju/article/details/70477929)
+解决方案：[参考](http://blog.csdn.net/caicai_zju/article/details/70477929)
 用tf.multiply替代tf.mul
 ```
