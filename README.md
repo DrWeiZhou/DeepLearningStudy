@@ -2,7 +2,7 @@
 # 安装tf-gpu
 * python3.5 WIN10安装成功tensorflow 1.3
 * 需要装CUDA，装CUDA需要装visual studio(装了2015community)
-* 装完CUDA需要装cudnn，然后拷贝dll文件到cuda的bin目录中.[参考](http://blog.csdn.net/bianjun1075/article/details/60478487)
+* 装完CUDA需要装cudnn，然后拷贝dll文件到cuda的bin目录中.[参考](http://blog.csdn.net/bianjun1075/article/details/60478487),[国内下载地址Omigaga回答](https://www.zhihu.com/question/37082272)
 * 老师github的程序是python2的，要使用以下命令转换下
 > D:\PythonWork\Anaconda2_431\envs\tensorflow\Tools\scripts>python 2to3.py -w D:\WEIZHOU_QTECH\WEIZHOU_Workspace\PythonProjects\TensorflowTest\01_TF_basics_and_linear_regression
 

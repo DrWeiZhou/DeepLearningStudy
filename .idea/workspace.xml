@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79ed88aa-2949-463a-ae04-d2f7fc4e16f0" name="Default" comment="" />
+    <list default="true" id="79ed88aa-2949-463a-ae04-d2f7fc4e16f0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pythonTest/ListTest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pythonTest/__init__.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/__init__.py" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/linear_regression_pt.py" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/linear_regression_pt.py.bak" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py.bak" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/linear_regression_tf.py" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/linear_regression_tf.py.bak" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py.bak" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist/t10k-images-idx3-ubyte.gz" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist/t10k-images-idx3-ubyte.gz" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist/t10k-labels-idx1-ubyte.gz" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist/t10k-labels-idx1-ubyte.gz" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist/train-images-idx3-ubyte.gz" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist/train-images-idx3-ubyte.gz" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist/train-labels-idx1-ubyte.gz" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist/train-labels-idx1-ubyte.gz" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py.bak" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py.bak" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/tensorflow_basic.py" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_TF_basics_and_linear_regression/tensorflow_basic.py.bak" afterPath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py.bak" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,53 +35,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="ListTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py">
+      <file leaf-file-name="linear_regression_pt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linear_regression_pt.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_TF_basics_and_linear_regression/linear_regression_pt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1505205114874" expanded="true" signature="1157:1603" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mnist_data_introduction_tf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py">
+        <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="42" />
+            <state relative-caret-position="1376">
+              <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="linear_regression_tf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_TF_basics_and_linear_regression/linear_regression_tf.py">
+        <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1408">
-              <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+            <state relative-caret-position="2752">
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tensorflow_basic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7136">
+              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="tensorflow_basic.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+        <entry file="file://$PROJECT_DIR$/python2/01_TF_basics_and_linear_regression/tensorflow_basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="219" column="23" lean-forward="true" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="23" />
+            <state relative-caret-position="448">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,6 +113,7 @@
         <option value="$PROJECT_DIR$/pythonTest/ListTest.py" />
         <option value="$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py" />
         <option value="$PROJECT_DIR$/01_TF_basics_and_linear_regression/tensorflow_basic.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -120,7 +147,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -136,6 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,24 +176,23 @@
             <path>
               <item name="TensorflowTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorflowTest" type="462c0819:PsiDirectoryNode" />
-              <item name="01_TF_basics_and_linear_regression" type="462c0819:PsiDirectoryNode" />
+              <item name="python2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TensorflowTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorflowTest" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonTest" type="462c0819:PsiDirectoryNode" />
+              <item name="python3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="last_opened_file_path" value="D:/PythonWork/Anaconda2_431/envs/tensorflow/python.exe" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -175,7 +204,11 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEIZHOU_QTECH\WEIZHOU_Workspace\PythonProjects\TensorflowTest\python3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WEIZHOU_QTECH\WEIZHOU_Workspace\PythonProjects\TensorflowTest\python2" />
       <recent name="D:\WEIZHOU_QTECH\WEIZHOU_Workspace\PythonProjects\TensorflowTest\01_TF_basics_and_linear_regression" />
     </key>
   </component>
@@ -290,18 +323,27 @@
       <option name="presentableId" value="Default" />
       <updated>1505178260761</updated>
     </task>
+    <task id="LOCAL-00001" summary="Readme">
+      <created>1505207919590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505207919590</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="1944" height="1052" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26138827" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27169198" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3211679" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3211679" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -322,6 +364,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -329,6 +375,102 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2752">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7136">
+          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2752">
+          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7136">
+          <caret line="223" column="0" lean-forward="true" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -337,42 +479,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
+        <state relative-caret-position="704">
           <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_TF_basics_and_linear_regression/linear_regression_pt.py">
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1505205114874" expanded="true" signature="1157:1603" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_TF_basics_and_linear_regression/linear_regression_tf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py">
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="42" />
+        <state relative-caret-position="2752">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="219" column="23" lean-forward="true" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="23" />
+        <state relative-caret-position="1376">
+          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7136">
+          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python2/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
