@@ -1,12 +1,12 @@
 深度学习课程代码(python2,python3)[源代码](https://github.com/jastarex/DeepLearningCourseCodes)
 
 # 使用Docker运行CPU版本的TensorFlow，pytorch(docker文件大小:8.43GB)
-* 安装了vim,git,anacoda2(2.7),anaconda3(3.6)
+* 基于Ubuntu16.04，安装了vim,git,anacoda2(2.7),anaconda3(3.6)
 * 2,3下都直接安装了TensorFlow1.3，pytorch
 * 使用jupyter notebook在浏览器中作为ide浏览运行代码
 * 包含了上课戎老师的代码(python2,python3)，我会持续更新，或者自己外挂卷运行自己的代码也可
 * 构建过程参见`SecondSetupProcess.md`,请大神请DockerFile之，减小容量
-* 如果缺python包，可以自己`docker run`安装，我也会更新这个docker文件
+* 如果缺python包，可以自己`docker run`进映像安装，我也会更新这个docker文件
 ```
 #下载映像
 docker pull weizhou/deeplearning
