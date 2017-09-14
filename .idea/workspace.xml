@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79ed88aa-2949-463a-ae04-d2f7fc4e16f0" name="Default" comment="" />
+    <list default="true" id="79ed88aa-2949-463a-ae04-d2f7fc4e16f0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py.bak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py.bak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py.bak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py.bak" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +36,7 @@
       <file leaf-file-name="mnist_data_introduction_tf.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1376">
+            <state relative-caret-position="677">
               <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="42" />
               <folding />
             </state>
@@ -40,7 +46,7 @@
       <file leaf-file-name="linear_regression_tf.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2752">
+            <state relative-caret-position="677">
               <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
@@ -50,28 +56,58 @@
       <file leaf-file-name="tensorflow_basic.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7136">
+            <state relative-caret-position="677">
               <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="neural_network_pt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python2/02_logistic_regression_and_multilayer_perceptron/neural_network_pt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tensorflow_basic.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python2/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+      <file leaf-file-name="neural_network_pt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python3/02_logistic_regression_and_multilayer_perceptron/neural_network_pt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="-1979">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="neural_network_tf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python3/02_logistic_regression_and_multilayer_perceptron/neural_network_tf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3316">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nearest_neighbor_tf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python3/02_logistic_regression_and_multilayer_perceptron/nearest_neighbor_tf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,6 +132,8 @@
         <option value="$PROJECT_DIR$/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py" />
         <option value="$PROJECT_DIR$/01_TF_basics_and_linear_regression/tensorflow_basic.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/python3/02_logistic_regression_and_multilayer_perceptron/neural_network_pt.py" />
+        <option value="$PROJECT_DIR$/python3/02_logistic_regression_and_multilayer_perceptron/nearest_neighbor_tf.py" />
       </list>
     </option>
   </component>
@@ -105,8 +143,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-6" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="1106" />
     <option name="height" value="594" />
   </component>
@@ -147,7 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,12 +201,25 @@
             <path>
               <item name="TensorflowTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorflowTest" type="462c0819:PsiDirectoryNode" />
+              <item name="python2" type="462c0819:PsiDirectoryNode" />
+              <item name="02_logistic_regression_and_multilayer_perceptron" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TensorflowTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorflowTest" type="462c0819:PsiDirectoryNode" />
               <item name="python3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TensorflowTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorflowTest" type="462c0819:PsiDirectoryNode" />
+              <item name="python3" type="462c0819:PsiDirectoryNode" />
+              <item name="02_logistic_regression_and_multilayer_perceptron" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -186,12 +237,13 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WEIZHOU_QTECH\WEIZHOU_Workspace\PythonProjects\TensorflowTest\python3" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WEIZHOU_QTECH\WEIZHOU_Workspace\PythonProjects\TensorflowTest\python3" />
       <recent name="D:\WEIZHOU_QTECH\WEIZHOU_Workspace\PythonProjects\TensorflowTest\python2" />
       <recent name="D:\WEIZHOU_QTECH\WEIZHOU_Workspace\PythonProjects\TensorflowTest\01_TF_basics_and_linear_regression" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEIZHOU_QTECH\WEIZHOU_Workspace\PythonProjects\TensorflowTest\python3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,10 +368,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="-12" width="1944" height="1052" extended-state="7" />
+    <frame x="-12" y="-12" width="1944" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27169198" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27982646" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -355,14 +407,55 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py">
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2752">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7136">
+          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python2/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py" />
     <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -403,14 +496,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py" />
     <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_pt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -451,18 +537,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py">
+    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py" />
+    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py" />
+    <entry file="file://$PROJECT_DIR$/python3/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/python2/01_TF_basics_and_linear_regression/tensorflow_basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="448">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTest/ListTest.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="544">
+          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -477,7 +574,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/linear_regression_tf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2752">
+        <state relative-caret-position="677">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
@@ -485,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1376">
+        <state relative-caret-position="677">
           <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="42" />
           <folding />
         </state>
@@ -493,21 +590,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python3/01_TF_basics_and_linear_regression/tensorflow_basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7136">
+        <state relative-caret-position="677">
           <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/__init__.py">
+    <entry file="file://$PROJECT_DIR$/python2/02_logistic_regression_and_multilayer_perceptron/neural_network_pt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -515,10 +604,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python2/01_TF_basics_and_linear_regression/tensorflow_basic.py">
+    <entry file="file://$PROJECT_DIR$/python3/02_logistic_regression_and_multilayer_perceptron/neural_network_pt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="-1979">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/02_logistic_regression_and_multilayer_perceptron/neural_network_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3316">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/02_logistic_regression_and_multilayer_perceptron/neural_network_pt.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/02_logistic_regression_and_multilayer_perceptron/nearest_neighbor_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
