@@ -17,7 +17,7 @@ docker run -it --rm -p 8888:8888 weizhou/deeplearning /root/deeplearning3.sh
 #运行python2(jupyter notebook)自己的代码
 docker run --it --rm -p 8888:8888 -v c:/p2CodeDir:/root/DeepLearningStudy/python2 weizhou/deeplearning /root/deeplearning2.sh
 #运行python3(jupyter notebook)自己的代码
-docker run --it --rm -p 8888:8888 -v c:/p2CodeDir:/root/DeepLearningStudy/python2 weizhou/deeplearning /root/deeplearning3.sh
+docker run --it --rm -p 8888:8888 -v c:/p3CodeDir:/root/DeepLearningStudy/python3 weizhou/deeplearning /root/deeplearning3.sh
 #将控制台最后一行输出的地址复制到host machine的浏览器中，将其中的0.0.0.0修改成127.0.0.1即可
 ```
 
