@@ -12,7 +12,7 @@
 docker pull weizhou/deeplearning
 #运行python2(jupyter notebook)
 docker run -it --rm -p 8888:8888 weizhou/deeplearning /root/deeplearning2.sh
-#运行python2(jupyter notebook)
+#运行python3(jupyter notebook)
 docker run -it --rm -p 8888:8888 weizhou/deeplearning /root/deeplearning3.sh
 #运行python2(jupyter notebook)自己的代码
 docker run --it --rm -p 8888:8888 -v c:/p2CodeDir:/root/DeepLearningStudy/python2/p2CodeDir weizhou/deeplearning /root/deeplearning2.sh
